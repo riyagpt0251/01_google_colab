@@ -1,7 +1,3 @@
-Below is an updated `README.md` description with added visual icon animations to make it interactive and engaging:
-
----
-
 # ⚙️ Data Preprocessing Tools  
 
 This repository contains a **Google Colab** notebook showcasing foundational data preprocessing techniques for machine learning. The notebook covers essential steps to clean, transform, and prepare datasets for modeling.  
@@ -85,8 +81,3 @@ The **Colab badge animation** uses a pulsing effect to grab attention. Add this 
 }
 ```
 
-Embed it in the `.md` file's `<style>` tag or apply through CSS if using in a hosted repository.
-
---- 
-
-Let me know if you'd like additional animations or styling tips!
